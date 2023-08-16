@@ -6,7 +6,6 @@ A fully basic voice synthesizer in vanillaJS
 
 ## Live Demo 
 
-Text to Speech - [Click Here](https://henryhale.github.io/ttspeech/)
 
 ## Screenshots 
 
